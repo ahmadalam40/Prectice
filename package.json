@@ -1,0 +1,22 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadalam40/TESTcicd.git"
+  },
+  "author": "Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadalam40/TESTcicd/issues"
+  },
+  "homepage": "https://github.com/ahmadalam40/TESTcicd#readme",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  }
+}
