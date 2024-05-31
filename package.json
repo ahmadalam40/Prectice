@@ -1,10 +1,10 @@
 {
   "name": "file",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning pipelines",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "C:/Users/User/Desktop/Prectice/cypress/e2e/2-advanced-examples"
   },
   "repository": {
     "type": "git",
